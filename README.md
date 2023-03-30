@@ -6,7 +6,7 @@ Watch some youtube: I used this LINK below (funny and good one, therefore you wi
 
 https://www.youtube.com/watch?v=vEI1tXgfeTI&t=190s
 
-Then, load in your brain-drive this Excel sheet (30/03/2023). It is not all covered, but you will pass. 
+Then, load in your brain-drive this Excel sheet (attached with this repository, named ILR.xlsx) (30/03/2023). It is not all covered, but you will pass. 
 
 Try to do some online dummy test :
 
